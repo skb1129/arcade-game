@@ -22,6 +22,6 @@
 * engine.js provides with the game loop functionality.
 * app.js creates player and enemies.
 
-Contact:
-Surya Kant Bansal
+Contact:<br>
+Surya Kant Bansal<br>
 e-mail: skbansal.cse15@chitkara.edu.in
